@@ -1,20 +1,62 @@
-## Hi there 👋
-
-# 💫 About Me:
-Я є професійним фронтенд-розробником з великим досвідом у створенні адаптивних, піксель-перфект веб-інтерфейсів, що відповідають сучасним стандартам. Володію HTML5, CSS3, SASS/SCSS, застосовую методологію БЕМ. Розумію принципи UX/UI та ефективно співпрацюю з дизайнерами та бекенд-командою. Маю здатність швидко адаптуватися до нових завдань, працювати з API, інтеграцією Telegram, поштовими сервісами та іншими зовнішніми системами. Зосереджений на досягненні результатів, написанні чистого коду та логічній структурі проєктів. Невпинно розвиваю свої навички та слідкую за новинками у сфері веб-розробки.<br><br>I am a professional Front-End Developer with extensive experience in building adaptive, pixel-perfect web interfaces that meet modern standards. I have strong knowledge of HTML5, CSS3, and SASS/SCSS, and follow the BEM methodology to ensure clean and maintainable code. I understand UX/UI principles and collaborate effectively with designers and backend teams. I am quick to adapt to new tasks and have hands-on experience integrating APIs, Telegram bots, email services, and other third-party systems.<br>I am focused on delivering high-quality results, maintaining a logical and scalable project structure, and writing clean, semantic code. I continuously improve my skills and stay up to date with the latest trends in web development.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%D1%81%D0%BB%D0%B0%D0%B2%D0%B0-%D1%82%D0%BE%D0%BF%D1%87%D0%B0%D0%BA-7981912a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ukr.cptn.cook@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Topchak&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Topchak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C4CC&height=200&section=header&text=Hi%20There%20👋%20I'm%20Topchak&fontSize=40&fontAlignY=35&desc=Front-End%20Developer%20|%20Clean%20Code%20&%20Pixel-Perfect%20Designs&descAlignY=55&animation=fadeIn" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Topchak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🌍 Я — професійний **Front-End розробник**, спеціалізуюсь на адаптивній, піксель-перфект верстці та чистій, масштабованій структурі коду.  
+🧠 Володію: **HTML5, CSS3, SASS/SCSS, БЕМ, JavaScript, React, TypeScript**  
+🎨 Розумію принципи **UI/UX** та тісно працюю з дизайнерами і бекенд-розробниками.  
+⚙️ Інтегрував API, Telegram-ботів, email-сервіси, аналітику та інші зовнішні модулі.  
+🚀 Завжди націлений на **якість, швидкість та підтримуваність коду**.
+
+---
+
+## 💼 Tech Stack
+
+> Основні технології, з якими працюю
+
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 Stats & Analytics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Topchak&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topchak&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Topchak&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/слава-топчак-7981912a9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ukr.cptn.cook@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:6C63FF&height=120&section=footer"/>
+</p>
